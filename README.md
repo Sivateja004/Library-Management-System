@@ -17,7 +17,7 @@ JavaScript
 Bootstrap 5
 
 # Installation
-Clone the repository:
+# # Clone the repository:
 git clone https://github.com/Sivateja004/Library-Management-System.git
 cd library-management-system
 Create a virtual environment and activate it:
